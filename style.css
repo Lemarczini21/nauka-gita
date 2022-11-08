@@ -9,3 +9,7 @@ body    {
 .logo i  {
 font-size: 80px;
 }
+img {
+    width:800px;
+    height:600px;
+}
