@@ -1,0 +1,11 @@
+/* Global */
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body    {
+    background-color: forestgreen
+}
+.logo i  {
+font-size: 80px;
+}
